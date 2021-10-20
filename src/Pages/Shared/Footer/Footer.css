@@ -1,11 +1,16 @@
 .foot_back{
     /* background-color: rgb(182, 210, 211); */
-    background-color: powderblue;
+    background-color: rgb(32, 30, 30);
     padding: 50px;
 }
 h2{
-    color: blueviolet;
+    color: White;
     font-size: 25px;
     font-weight: 700;
-    text-transform: capitalize;
+    text-transform: uppercase;
+}
+.logoFooter{
+    height: 100px;
+    width: 100px;
+    margin-bottom: 20px;
 }

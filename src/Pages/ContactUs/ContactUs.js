@@ -12,7 +12,7 @@ const ContactUs = () => {
                         <div className="contact_div">
                             <h1 className="contact_head">Contact Us</h1>
                             <hr />
-                            <p className="text-dark fw-bolder ">Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam ornare nunc a mauris euismod, in sollicitudin turpis placerat</p>
+                            <p className="text-dark fw-bolder ">Customer service representatives are available nationwide to answer questions about your dental insurance, claims submissions, payment procedures,</p>
                         </div>
                     </div>
                 </div>

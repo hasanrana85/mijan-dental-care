@@ -16,8 +16,8 @@ const Banner = () => {
                     alt="First slide"
                     />
                     <Carousel.Caption>
-                    <h2 className="text-dark fw-bold">First slide label</h2>
-                    <p className="text-dark fw-bold">Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                    <h2 className="text-dark fw-bold fs-1">The Development of Teeth</h2>
+                    <p className="text-dark fw-bold fs-4">Humans have two sets of teeth: primary (or baby) teeth and permanent (adult) teeth,</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
@@ -28,8 +28,8 @@ const Banner = () => {
                     />
 
                     <Carousel.Caption>
-                    <h2 className="text-dark fw-bold">Second slide label</h2>
-                    <p className="text-dark fw-bold">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <h2 className="text-dark fw-bold fs-1">Types of Teeth and What They Do</h2>
+                    <p className="text-dark fw-bold fs-4">A tooth is divided into two basic parts: the crown, which is the visible, white part of the tooth,</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
@@ -40,8 +40,8 @@ const Banner = () => {
                     />
 
                     <Carousel.Caption>
-                    <h2 className="text-dark fw-bold">Third slide label</h2>
-                    <p className="text-dark fw-bold">Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+                    <h2 className="text-dark fw-bold fs-1">The Parts of the Tooth</h2>
+                    <p className="text-dark fw-bold fs-4">Teeth help you chew your food, making it easier to digest. Each type of tooth has a slightly</p>
                     </Carousel.Caption>
                 </Carousel.Item>
             </Carousel>

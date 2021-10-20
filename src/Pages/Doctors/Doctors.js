@@ -5,7 +5,7 @@ import Doctor from '../../Pages/Doctor/Doctor';
 const Doctors = () => {
     const [doctors, setDoctors] = useState([]);
 
-    useEffect( () => {
+    useEffect(() => {
         fetch('./doctors.json')
         .then(res => res.json())
         .then(data => setDoctors(data))
@@ -20,7 +20,7 @@ const Doctors = () => {
                     <div className="doctor_p">
                         <h1 className="doctor_head">Our Doctors</h1>
                         <hr />
-                        <p className="text-dark fw-bolder ">Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam ornare nunc a mauris euismod, in sollicitudin turpis placerat</p>
+                        <p className="text-dark fw-bolder ">They are the frontline and first point of contact in a patient's health care. They diagnose and treat their patients for all sorts of ailments,</p>
                     </div>
                 </div>
             </div>

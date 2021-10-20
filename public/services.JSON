@@ -30,34 +30,34 @@
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVbyYw6oLETVZuH9lt_zWHzrounz0MtiplEw&usqp=CAU"
 },{
     "id": 7,
-    "name": "Full Diagnostic",
-    "description": "Class aptent taciti sociosqu ad litora torquent per conubia nostra",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVbyYw6oLETVZuH9lt_zWHzrounz0MtiplEw&usqp=CAU"
+    "name": "Periodontitis",
+    "description": "You've made a dentist appointment, and it can't come soon enough.",
+    "image": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/health_tools/tooth_problems_slideshow/getty_rf_photo_of_stained_teeth.jpg"
 },
 {
     "id": 8,
-    "name": "Full Diagnostic",
-    "description": "Class aptent taciti sociosqu ad litora torquent per conubia nostra",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVbyYw6oLETVZuH9lt_zWHzrounz0MtiplEw&usqp=CAU"
+    "name": "Cracked or broken teeth",
+    "description": "Meanwhile, it can help to rinse your mouth with warm water, floss to remove food caught between teeth, ",
+    "image": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/health_tools/tooth_problems_slideshow/princ_rm_xray_of_tooth_decay.jpg"
 },{
     "id": 9,
-    "name": "Full Diagnostic",
-    "description": "Class aptent taciti sociosqu ad litora torquent per conubia nostra",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVbyYw6oLETVZuH9lt_zWHzrounz0MtiplEw&usqp=CAU"
+    "name": "Sensitive teeth",
+    "description": "If you notice swelling or pus around the tooth, or if you have a fever, that could be a sign that you have an abscess, a more serious",
+    "image": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/health_tools/tooth_problems_slideshow/getty_rf_photo_of_chipped_tooth.jpg"
 },{
     "id": 10,
-    "name": "Full Diagnostic",
-    "description": "Class aptent taciti sociosqu ad litora torquent per conubia nostra",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVbyYw6oLETVZuH9lt_zWHzrounz0MtiplEw&usqp=CAU"
+    "name": "Oral cancer.",
+    "description": "See your dentist as soon as possible. You may need antibiotics as well as other treatments.",
+    "image": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/health_tools/tooth_problems_slideshow/aacd_rf_photo_of_fillings_in_cracked_tooth.jpg"
 },{
     "id": 11,
-    "name": "Full Diagnostic",
+    "name": "Cavities.",
     "description": "Class aptent taciti sociosqu ad litora torquent per conubia nostra",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVbyYw6oLETVZuH9lt_zWHzrounz0MtiplEw&usqp=CAU"
+    "image": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/health_tools/tooth_problems_slideshow/getty_rm_xray_of_hyperdontia.jpg"
 },{
     "id": 12,
-    "name": "Full Diagnostic",
-    "description": "Class aptent taciti sociosqu ad litora torquent per conubia nostra",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVbyYw6oLETVZuH9lt_zWHzrounz0MtiplEw&usqp=CAU"
+    "name": "Gum disease",
+    "description": "Your teeth are like your laundry: The right approach will remove many stains. Foods, medications, tobacco, and trauma are some of the things",
+    "image": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/health_tools/tooth_problems_slideshow/getty_rf_photo_of_gingivitis.jpg"
 }
 ]

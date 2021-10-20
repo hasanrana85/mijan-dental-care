@@ -2,3 +2,13 @@
     background-color: #614379;
     color: white;
 }
+.logo{
+    height: 70px;
+    width: 70px;
+    margin-right: 10px;
+}
+.logo_head{
+    font-size: 24px;
+    font-weight: 700;
+    text-transform: uppercase;
+}

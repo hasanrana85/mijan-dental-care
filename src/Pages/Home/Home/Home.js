@@ -8,7 +8,7 @@ const Home = () => {
     const [services, setServices] = useState([]);
     
     useEffect( () =>{
-        fetch('./services.JSON')
+        fetch('./services.json')
         .then(res => res.json())
         .then(data => setServices(data));
     }, [])
@@ -21,7 +21,7 @@ const Home = () => {
                 <div className="home_service">
                     <h1 className="home_ser_head">Our Services</h1>
                     <hr />
-                    <p className="text-dark fw-bolder ">Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam ornare nunc a mauris euismod, in sollicitudin turpis placerat</p>
+                    <p className="text-dark fw-bolder ">Read the latest blog on dental services, treatment. Learn about current dental topics important for Moms, kids, and the whole family.</p>
                 </div>
             </div>
             <div className="row mt-5">

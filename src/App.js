@@ -13,6 +13,7 @@ import Footer from './Pages/Shared/Footer/Footer';
 import AuthProvider from './context/AuthProvider';
 import PrivateRoute from './Pages/PrivateRoute/PrivateRoute';
 import ServiceDetails from './Pages/Home/ServiceDetails/ServiceDetails';
+import DoctorDetails from './Pages/DoctorDetails/DoctorDetails';
 
 function App() {
   return (
@@ -27,15 +28,15 @@ function App() {
           <Route path="/home">
             <Home></Home>
           </Route>
-          <PrivateRoute path="/about">
+          <Route path="/about">
             <AboutUs></AboutUs>
-          </PrivateRoute>
-          <PrivateRoute path="/services">
+          </Route>
+          <Route path="/services">
             <Services></Services>
-          </PrivateRoute>
-          <PrivateRoute path="/doctors">
+          </Route>
+          <Route path="/doctors">
             <Doctors></Doctors>
-          </PrivateRoute>
+          </Route>
           <Route path="/contact">
             <ContactUs></ContactUs>
           </Route>
@@ -45,8 +46,11 @@ function App() {
           <Route path="/registration">
             <Registration></Registration>
           </Route>
-          <Route path="/serviceDetails/:serviceAll">
+          <PrivateRoute path="/serviceDetails/:serviceAll">
             <ServiceDetails></ServiceDetails>
+          </PrivateRoute>
+          <Route path="/doctorDetails/:doctorAll">
+            <DoctorDetails></DoctorDetails>
           </Route>
           <Route path="*">
             <NotFound></NotFound>

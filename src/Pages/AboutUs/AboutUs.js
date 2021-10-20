@@ -15,7 +15,7 @@ const AboutUs = () => {
                 <div className="about_header">
                     <h1 className="about_head">About Us</h1>
                     <hr />
-                    <p className="text-dark fw-bolder ">Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam ornare nunc a mauris euismod, in sollicitudin turpis placerat</p>
+                    <p className="text-dark fw-bolder ">A buildup of plaque, a sticky bacteria, below the gum line causes it. Left untreated, it can at some point</p>
                 </div>
             </div>
 

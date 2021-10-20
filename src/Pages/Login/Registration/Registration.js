@@ -19,6 +19,8 @@ const Registration = () => {
     const [error, setError] = useState('');
     const [isLogin, setIsLogin] = useState(false);
 
+    const [isLoading, setIsLoading] = useState(true);
+
 
     const toggleLogin = e =>{
         setIsLogin(e.target.checked);
@@ -48,6 +50,7 @@ const Registration = () => {
         signInWithEmailAndPassword(auth, email, password)
         .then(result =>{
             const user = result.user;
+             history.push(redirect_uri);
             console.log(user);
             setError('');
         })
@@ -60,6 +63,7 @@ const Registration = () => {
         createUserWithEmailAndPassword(auth, email, password)
         .then(result =>{
             const user = result.user;
+             history.push(redirect_uri);
             console.log(user);
             setError('');
             verifyEmail();
@@ -96,6 +100,7 @@ const Registration = () => {
         .then(result =>{
             history.push(redirect_uri);
         })
+        .finally(() => setIsLoading(false));
     }
     
 

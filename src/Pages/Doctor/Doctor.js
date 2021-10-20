@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import './Doctor.css';
 
 const Doctor = (props) => {
@@ -11,7 +12,9 @@ const Doctor = (props) => {
                 <hr className="text-danger" />
                 <p>{description}</p>
                 <br />
+                <Link to={`/doctorDetails/${id}`}>
                 <button className="btn btn-primary text-uppercase fw-bold">View profile</button>
+                </Link>
             </div>
     );
 };
