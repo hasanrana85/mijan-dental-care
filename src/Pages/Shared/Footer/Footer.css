@@ -1,0 +1,11 @@
+.foot_back{
+    /* background-color: rgb(182, 210, 211); */
+    background-color: powderblue;
+    padding: 50px;
+}
+h2{
+    color: blueviolet;
+    font-size: 25px;
+    font-weight: 700;
+    text-transform: capitalize;
+}

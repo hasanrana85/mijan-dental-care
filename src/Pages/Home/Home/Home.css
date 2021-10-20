@@ -1,0 +1,17 @@
+.service_img {
+    background-image: url(../../../images/services/slider-4.jpg);
+    height: 300px;
+    width: 100%;
+    opacity: 0.75;
+    border-radius: 20px;
+}
+.home_service{
+    width: 50%;
+    margin: 0 auto;
+}
+.home_ser_head{
+    color: purple;
+    font-size: 48px;
+    font-weight: 800;
+    text-transform: uppercase;
+}

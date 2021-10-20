@@ -1,0 +1,29 @@
+.doctor_img {
+    background-image: url(../../images/services/slider-4.jpg);
+    height: 300px;
+    width: 100%;
+    opacity: 0.75;
+    border-radius: 20px;
+}
+
+.contact_head {
+    color: purple;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.contact_div {
+    width: 50%;
+    margin: 0 auto;
+}
+.contact_add{
+    border: 2px solid purple;
+    padding: 50px 30px;
+    border-radius: 20px;
+    background-color: khaki;
+}
+.contact_head2{
+    color: rebeccapurple;
+    font-size: 25px;
+    font-weight: 800;
+}

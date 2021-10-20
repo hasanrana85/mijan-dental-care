@@ -1,0 +1,63 @@
+[{
+    "id": 1,
+    "name": "Pediatric Dentistry",
+    "description": "Maecenas luctus urna velit, sit amet varius nunc laoreet a",
+    "image": "https://www.uab.edu/dentistry/home/images/images/patients/pediatric-dentistry-clinic-SoD-1600x1280.jpg"
+}, {
+    "id": 2,
+    "name": "Dental Implants",
+    "description": "Uspendisse tincidunt enim eget auctor maximus. Vestibulum in cursus erat",
+    "image": "https://d25i5lmgycwrrj.cloudfront.net/wp-content/uploads/images/Dental-Implants-One-Day.jpg"
+}, {
+    "id": 3,
+    "name": "Teeth Whitening",
+    "description": "Aliquam nisi mauris, venenatis id ligula vel, fermentum convallis orci",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZtE8z8EW--2IAW34BrRsowZ1mp820-wd9jQ&usqp=CAU"
+}, {
+    "id": 4,
+    "name": "Orthodontics",
+    "description": "Mauris ut nisi blandit, ultrices odio ut, aliquet ligula. Aliquam mat",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgp56nlCyYxR3fWpU0xWZjqJk051QJlXKeig&usqp=CAU"
+}, {
+    "id": 5,
+    "name": "Free Consultation",
+    "description": "Duis at nulla luctus, accumsan orci vel, auctor enim. Morbi elit dia",
+    "image": "https://www.daysoftheyear.com/wp-content/uploads/dentists-day-scaled.jpg"
+}, {
+    "id": 6,
+    "name": "Full Diagnostic",
+    "description": "Class aptent taciti sociosqu ad litora torquent per conubia nostra",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVbyYw6oLETVZuH9lt_zWHzrounz0MtiplEw&usqp=CAU"
+},{
+    "id": 7,
+    "name": "Full Diagnostic",
+    "description": "Class aptent taciti sociosqu ad litora torquent per conubia nostra",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVbyYw6oLETVZuH9lt_zWHzrounz0MtiplEw&usqp=CAU"
+},
+{
+    "id": 8,
+    "name": "Full Diagnostic",
+    "description": "Class aptent taciti sociosqu ad litora torquent per conubia nostra",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVbyYw6oLETVZuH9lt_zWHzrounz0MtiplEw&usqp=CAU"
+},{
+    "id": 9,
+    "name": "Full Diagnostic",
+    "description": "Class aptent taciti sociosqu ad litora torquent per conubia nostra",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVbyYw6oLETVZuH9lt_zWHzrounz0MtiplEw&usqp=CAU"
+},{
+    "id": 10,
+    "name": "Full Diagnostic",
+    "description": "Class aptent taciti sociosqu ad litora torquent per conubia nostra",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVbyYw6oLETVZuH9lt_zWHzrounz0MtiplEw&usqp=CAU"
+},{
+    "id": 11,
+    "name": "Full Diagnostic",
+    "description": "Class aptent taciti sociosqu ad litora torquent per conubia nostra",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVbyYw6oLETVZuH9lt_zWHzrounz0MtiplEw&usqp=CAU"
+},{
+    "id": 12,
+    "name": "Full Diagnostic",
+    "description": "Class aptent taciti sociosqu ad litora torquent per conubia nostra",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVbyYw6oLETVZuH9lt_zWHzrounz0MtiplEw&usqp=CAU"
+}
+]

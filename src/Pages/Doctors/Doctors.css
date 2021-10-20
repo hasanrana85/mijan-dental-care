@@ -1,0 +1,16 @@
+.doctor_img {
+    background-image: url(../../images/services/slider-4.jpg);
+    height: 300px;
+    width: 100%;
+    opacity: 0.75;
+    border-radius: 20px;
+}
+.doctor_head{
+    color: purple;
+    font-size: 48px;
+    font-weight: 800;
+}
+.doctor_p{
+    width: 50%;
+    margin: 0 auto;
+}
